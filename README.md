@@ -29,6 +29,6 @@ Install `matplotlib` with:
 pip install matplotlib
 ```
 
-## Usuage
+## Usage
 ![image](https://github.com/user-attachments/assets/9c22e09c-64ea-42bd-a980-aacb6029596c)
 
